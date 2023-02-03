@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TestCurrencyExchanger</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="submit">Submit</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="my_balances">My Balances</string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="receive">Receive</string>
+    <string name="eur">EUR</string>
+    <string name="usd">USD</string>
+    <string name="currency">Currency converted</string>
+    <string name="success_convert">You have converted %s %s to %s %s. Commission Fee - %s %s </string>
+    <string name="failure_convert">Failure Convert</string>
+</resources>
